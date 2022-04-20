@@ -555,11 +555,11 @@ html,body,.container,.cube,.stadium {
   }
 
   30% {
-    bottom: 50%;
+    /* bottom: 50%; */
     transform: scale(.6) translateX(0) rotate(360deg);
   }
   35% {
-    bottom: 46%;
+    /* bottom: 46%; */
     transform: scale(.65) rotate(180deg);
   }
 
@@ -597,11 +597,11 @@ html,body,.container,.cube,.stadium {
   }
 
   30% {
-    bottom: 50%;
+    /* bottom: 50%; */
     transform: scale(.6) translateX(0) rotate(360deg);
   }
   35% {
-    bottom: 46%;
+    /* bottom: 46%; */
     transform: scale(.65) rotate(180deg);
   }
 
@@ -640,11 +640,11 @@ html,body,.container,.cube,.stadium {
   }
 
   30% {
-    bottom: 50%;
+    /* bottom: 50%; */
     transform: scale(.6) translateX(0) rotate(360deg);
   }
   35% {
-    bottom: 46%;
+    /* bottom: 46%; */
     transform: scale(.65) rotate(0deg);
   }
 
@@ -738,7 +738,3 @@ html,body,.container,.cube,.stadium {
     --bounceright3: 36px;
     }  
 }
-
-/* .cube-anim {
-  animation: bounce 2s both infinite;
-} */
